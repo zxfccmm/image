@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="632" height="196" viewBox="0 0 632 196">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 300px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: HYShangWeiShouShuW;
+      }
+    </style>
+  </defs>
+  <text id="Steve" class="cls-1" x="320.281" y="190.493"><tspan x="320.281">Steve</tspan></text>
+</svg>
